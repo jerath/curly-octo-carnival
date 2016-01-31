@@ -1,2 +1,2 @@
 # curly-octo-carnival
-shitty hackathon 2016
+Shitty Hackathon 2016
